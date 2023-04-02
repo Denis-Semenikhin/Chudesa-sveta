@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.header {
+  height: 160px;
+  width: 100%;
+  background-color: blueviolet;
+  padding: 20px;
+  display: block;
+  text-align: center;
+}
+.logo {
+  height: 160px;
+}
+.title {
+  font-size: 60px;
+  color: rgb(247, 244, 244);
+}
+.header-nav {
+  display: inline;
+}
